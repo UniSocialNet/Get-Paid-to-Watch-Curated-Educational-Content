@@ -1,4 +1,4 @@
-# Get Paid-to-Watch-Curated-Educational-Content
+# Get Paid-to-Watch-Curated-Educational-Content.Community.Feature
 We have a Huge problem with Humanity's awakening. Most people don't want to study &amp; learn! We can solve this with incentives. Have a Library of curated content on each Community, Use Browser Mining &amp; Ads to generate revenue. Share this with users per video watched! Give them a Quiz after. Rest goes in Endowment for Copyright holder &amp; We take 11.11% "content management fee"
 
 # Member Suggestions
