@@ -1,5 +1,15 @@
 # Get Paid-to-Watch-Curated-Educational-Content.Community.Feature
-We have a Huge problem with Humanity's awakening. Most people don't want to study &amp; learn! We can solve this with incentives. Have a Library of curated content on each Community, Use Browser Mining &amp; Ads to generate revenue. Share this with users per video watched! Give them a Quiz after. Rest goes in Endowment for Copyright holder &amp; We take 11.11% "content management fee"
+
+# Keeping Humans in the loop, Enhanced with A.I. & ML tools
+This Community.Feature changes the entire Economics & incentives structure of Online Content Creators! No longer will A.I. generated "slop" be rewarded with views, just because it "cracked" the algorithm. Our system uses Humans to Curate and find content, but they have powerful tools: Like web spidering, ML/AI recommendation systems, & Content
+
+We have a Huge problem with Humanity's awakening. Most people don't want to study &amp; learn! We can solve this with incentives. Have a Library of curated content on each Community, 
+
+# Open Endowment Connection
+We use Browser Mining &amp; Ads to generate revenue. Users simply by being on the site are able to generate revenue from their personal area network! We use a MineAI to do this.
+
+We Share this revenue with users per video watched! Give them a Quiz after to ensure they really did complete it.
+ We take 11.11% "content management fee", and Rest goes in *Open.Endowment* Funds for the Copyright holder to claim at any time.
 
 # Member Suggestions
 Community members can suggest Content they would like to see! This is organic & human powered. Later we can train machine learning to find similar content & spider the web.
